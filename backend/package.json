@@ -1,7 +1,7 @@
 {
-  "name": "SriGo",
+  "name": "TourVista",
   "version": "1.0.0",
-  "description": "Backend of the SriGo Reservation Management System",
+  "description": "Backend of the TourVista Reservation Management System",
   "main": "index.js",
   "type": "module",
   "scripts": {
